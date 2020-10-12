@@ -25,6 +25,9 @@ export(itChoose)
 # Estimation Functions:
 export(mleEst, wleEst, bmeEst, eapEst)
 
+# Internal functions for comparison testing the wasm port
+export(p.brm, pder1.brm, pder2.brm, lder1.brm)
+
 # S3 Methods ("[.")
 S3method("[", brm)
 S3method("[", grm)

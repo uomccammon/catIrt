@@ -27,7 +27,7 @@ export(mleEst, wleEst, bmeEst, eapEst)
 
 # Internal functions for comparison testing the wasm port
 export(p.brm, pder1.brm, pder2.brm, lder1.brm, lder2.brm)
-export(p.grm, pder1.grm, pder2.grm, lder1.grm, lder2.grm)
+export(p.grm, pder1.grm, pder2.grm, lder1.grm, lder2.grm, logLik.grm, termGLR)
 
 # S3 Methods ("[.")
 S3method("[", brm)

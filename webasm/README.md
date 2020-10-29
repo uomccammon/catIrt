@@ -1,3 +1,7 @@
+# NOTICE:
+
+All development in this subfolder has been moved to a stand-alone project: [catIrt-js](https://github.com/uomccammon/catIrt-js)
+
 ## Requirements and Setup
 1. Requires [nodeJS 12 or greater](https://nodejs.org/)
 2. Requires [emscripten 2.0.6 or greater](https://emscripten.org/docs/getting_started/downloads.html)
